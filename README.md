@@ -3,5 +3,5 @@ Competition on https://www.drivendata.org/competitions/44/dengai-predicting-dise
 
 ### Notes:
 
-I add the total_cases column from the file dengue_labels_train.csv to dengue_features_train.csv. 
+I added the total_cases column from the file dengue_labels_train.csv to dengue_features_train.csv. 
 
